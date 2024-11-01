@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WCS Web Maintenance\n"
+"POT-Creation-Date: 2017-09-01 20:13+0200\n"
+"PO-Revision-Date: 2017-09-01 20:14+0200\n"
+"Last-Translator: Nikolay Kot <samoylovnn@gmail.com>\n"
+"Language-Team: info@comusys.com\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_p;gettext\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wcs-web-maintenance.php:99 wcs-web-maintenance.php:254
+msgid "Settings"
+msgstr "Opciones"
+
+#: wcs-web-maintenance.php:110 wcs-web-maintenance.php:392
+msgid "Maintenance mode"
+msgstr "Modo mantenimiento"
+
+#: wcs-web-maintenance.php:126 wcs-web-maintenance.php:150
+msgid "Turn off maintenance mode"
+msgstr "Apagar modo mantenimiento"
+
+#: wcs-web-maintenance.php:132 wcs-web-maintenance.php:150
+msgid "Turn on maintenance mode"
+msgstr "Activar modo mantenimiento"
+
+#: wcs-web-maintenance.php:139
+msgid "Invalid server response"
+msgstr "Respuesta inválida del servidor"
+
+#: wcs-web-maintenance.php:167
+msgid "Maintenance mode enabled"
+msgstr "Modo mantenimiento activo"
+
+#: wcs-web-maintenance.php:197
+msgid "Site closed for maintenance"
+msgstr "Sitio web cerrado por mantenimiento"
+
+#: wcs-web-maintenance.php:198
+msgid "Site temporarily unavailable"
+msgstr "El sitio web está temporalmente deshabilitado"
+
+#: wcs-web-maintenance.php:199
+msgid "Currently on the site are technical works"
+msgstr "Actualmente estamos realizando trabajos técnicos"
+
+#: wcs-web-maintenance.php:200
+msgid "We apologise for any inconvenience"
+msgstr "Lo sentimos por las molestias"
+
+#: wcs-web-maintenance.php:246
+msgid "Settings saved"
+msgstr "Opciones guardadas"
+
+#: wcs-web-maintenance.php:250
+msgid "Settings reseted"
+msgstr "Opciones reiniciadas"
+
+#: wcs-web-maintenance.php:254
+msgid "maintenance mode"
+msgstr "modo mantenimiento"
+
+#: wcs-web-maintenance.php:262
+msgid "Mode active"
+msgstr "Modo activo"
+
+#: wcs-web-maintenance.php:265 wcs-web-maintenance.php:344
+msgid "Yes"
+msgstr "Sí"
+
+#: wcs-web-maintenance.php:268 wcs-web-maintenance.php:347
+msgid "No"
+msgstr "No"
+
+#: wcs-web-maintenance.php:274
+msgid "Title"
+msgstr "Título"
+
+#: wcs-web-maintenance.php:277 wcs-web-maintenance.php:285
+#: wcs-web-maintenance.php:293 wcs-web-maintenance.php:301
+#, php-format
+msgid "This text will be specified in the tag %s"
+msgstr "Este texto se introducirá en la etiqueta %s"
+
+#: wcs-web-maintenance.php:282
+msgid "Main header"
+msgstr "Titular principal"
+
+#: wcs-web-maintenance.php:290
+msgid "Secondary header"
+msgstr "Titular secundario"
+
+#: wcs-web-maintenance.php:298
+msgid "Content"
+msgstr "Contenido"
+
+#: wcs-web-maintenance.php:306
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: wcs-web-maintenance.php:313
+msgid "Text color"
+msgstr "Color de texto"
+
+#: wcs-web-maintenance.php:320
+msgid "Icon color"
+msgstr "Color del icono"
+
+#: wcs-web-maintenance.php:327
+msgid "Link color"
+msgstr "Color de enlace"
+
+#: wcs-web-maintenance.php:334
+msgid "Active link color"
+msgstr "Color de enlace activo"
+
+#: wcs-web-maintenance.php:341
+msgid "Show login"
+msgstr "Mostrar login"
+
+#: wcs-web-maintenance.php:349
+msgid "Show login link on maintenance mode website."
+msgstr ""
+"Mostrar enlace al acceso de administrador en la web de modo "
+"mantenimiento."
+
+#: wcs-web-maintenance.php:354
+msgid "Close access to the site for"
+msgstr "Cerrar acceso al sitio web para"
+
+#: wcs-web-maintenance.php:363
+msgid "Authors"
+msgstr "Autores"
+
+#: wcs-web-maintenance.php:364
+msgid "Contributors"
+msgstr "Colaboradores"
+
+#: wcs-web-maintenance.php:365
+msgid "Editors"
+msgstr "Editores"
+
+#: wcs-web-maintenance.php:366
+msgid "Subscribers"
+msgstr "Suscriptores"
+
+#: wcs-web-maintenance.php:367
+msgid "Visitors"
+msgstr "Visitantes"
+
+#: wcs-web-maintenance.php:374
+msgid ""
+"Select a users groups for which the maintenance mode will be displayed "
+"instead of the contents of the site"
+msgstr ""
+"Seleccione el grupo de usuarios a los cuales se les mostrará el modo "
+"mantenimiento en vez del contenido del sitio web."
+
+#: wcs-web-maintenance.php:379
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: wcs-web-maintenance.php:381
+msgid "Reset settings"
+msgstr "Reiniciar configuración"
+
+#: wcs-web-maintenance.php:406
+msgid "Login for Administrators"
+msgstr "Acceso administradores"
+
+#~ msgid "This title will be specified in the tag %s"
+#~ msgstr "Este título se mostrará en la etiqueta %s"
+
+#~ msgid "CSS-styles"
+#~ msgstr "CSS-стили"
+
+#~ msgid "These styles will be inserted into the tag %s"
+#~ msgstr "Указанные стили будут вставлены в тег %s"
+
+#~ msgid "Text to be displayed"
+#~ msgstr "Текст, который будет выводиться"
+
+#~ msgid "These text is inserted into the tag %s (HTML code is allowed)"
+#~ msgstr ""
+#~ "Указанные текст будет вставлен в тег %s (разрешено использование "
+#~ "произвольного HTML кода)"
